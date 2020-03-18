@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/dsw/security/OrderApi.java=UTF-8
+encoding//src/main/java/com/dsw/security/server/resource/OAuth2WebSecurityConfig.java=UTF-8
+encoding//src/main/java/com/dsw/security/server/resource/OAuthResourceServerConfig.java=UTF-8
